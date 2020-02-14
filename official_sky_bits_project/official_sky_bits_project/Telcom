@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus">
+    <VehicleStatus>
+      <VehicleID>46408</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE111 - Edward Luna</VehicleName>
+      <TrackDate>2020-01-30T14:31:47</TrackDate>
+      <Address>95223 Waipono St</Address>
+      <City>Waipio Acres</City>
+      <State>HI</State>
+      <Dir>330</Dir>
+      <Speed>0</Speed>
+      <Lat>21.4648781</Lat>
+      <Lon>-158.013763</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#08ebef</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46542</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE124 - Jenson Takara</VehicleName>
+      <TrackDate>2020-01-30T15:19:38</TrackDate>
+      <Address>951002 Kuhea St</Address>
+      <City>Mililani Town</City>
+      <State>HI</State>
+      <Dir>306</Dir>
+      <Speed>0</Speed>
+      <Lat>21.4749928</Lat>
+      <Lon>-157.991547</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#08ebef</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+  </ResultData>
+</ResultObject>

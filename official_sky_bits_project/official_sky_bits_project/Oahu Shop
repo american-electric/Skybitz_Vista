@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus">
+    <VehicleStatus>
+      <VehicleID>46527</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE064 - Oahu Shop Flatbed</VehicleName>
+      <TrackDate>2020-01-30T14:38:22</TrackDate>
+      <Address>AEC Oahu Office</Address>
+      <City>Waipio Acres</City>
+      <State>HI</State>
+      <Dir>76</Dir>
+      <Speed>0</Speed>
+      <Lat>21.4825649</Lat>
+      <Lon>-158.011032</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#ff7dbd</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46520</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE141- Oahu Shop Truck </VehicleName>
+      <TrackDate>2020-01-30T15:09:17</TrackDate>
+      <Address>AEC Oahu Office</Address>
+      <City>Waipio Acres</City>
+      <State>HI</State>
+      <Dir>74</Dir>
+      <Speed>0</Speed>
+      <Lat>21.4826164</Lat>
+      <Lon>-158.0109</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#ff7dbd</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+  </ResultData>
+</ResultObject>

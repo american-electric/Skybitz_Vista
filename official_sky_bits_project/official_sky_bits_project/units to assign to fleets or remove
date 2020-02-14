@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus" />
+</ResultObject>

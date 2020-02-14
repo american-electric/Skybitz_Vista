@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus">
+    <VehicleStatus>
+      <VehicleID>46470</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>GPS001 - Shawn Ortiz</VehicleName>
+      <TrackDate>2020-01-30T14:44:35</TrackDate>
+      <Address>2378 Pahounui Dr</Address>
+      <City>Honolulu</City>
+      <State>HI</State>
+      <Dir>316</Dir>
+      <Speed>0</Speed>
+      <Lat>21.3248577</Lat>
+      <Lon>-157.89212</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#FF6600</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46426</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>GPS002 - Edward Smythe</VehicleName>
+      <TrackDate>2020-01-30T15:12:26</TrackDate>
+      <Address>2378 Pahounui Dr</Address>
+      <City>Honolulu</City>
+      <State>HI</State>
+      <Dir>140</Dir>
+      <Speed>0</Speed>
+      <Lat>21.3249912</Lat>
+      <Lon>-157.892273</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#FF6600</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+  </ResultData>
+</ResultObject>

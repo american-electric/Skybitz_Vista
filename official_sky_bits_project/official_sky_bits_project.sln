@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "official_sky_bits_project", "official_sky_bits_project\official_sky_bits_project.pyproj", "{8B998377-030D-4124-A010-4B0DEC212D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B998377-030D-4124-A010-4B0DEC212D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B998377-030D-4124-A010-4B0DEC212D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF314EA-4F49-4768-B34B-993D0A200974}
+	EndGlobalSection
+EndGlobal

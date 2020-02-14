@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus">
+    <VehicleStatus>
+      <VehicleID>43682</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>CT005 - Jake Ollie</VehicleName>
+      <TrackDate>2020-01-30T14:27:13</TrackDate>
+      <Address>AEC Oahu Office</Address>
+      <City>Waipio Acres</City>
+      <State>HI</State>
+      <Dir>254</Dir>
+      <Speed>0</Speed>
+      <Lat>21.4824028</Lat>
+      <Lon>-158.011124</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>58</Duration>
+      <Sensor>0</Sensor>
+      <Color>#FFFF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>IgnOff</Status>
+      <StatusUser>Ign off</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>1</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46523</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>CT006-Unasigned  Truck</VehicleName>
+      <TrackDate>2020-01-30T14:28:52</TrackDate>
+      <Address>2378 Pahounui Dr</Address>
+      <City>Honolulu</City>
+      <State>HI</State>
+      <Dir>162</Dir>
+      <Speed>0</Speed>
+      <Lat>21.32503</Lat>
+      <Lon>-157.892166</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#FFFF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46471</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>CT004 -GPS use</VehicleName>
+      <TrackDate>2020-01-30T15:24:09</TrackDate>
+      <Address>702 Farrington Hwy</Address>
+      <City>Nanakuli</City>
+      <State>HI</State>
+      <Dir>332</Dir>
+      <Speed>4</Speed>
+      <Lat>21.370203</Lat>
+      <Lon>-158.13623</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>1</Duration>
+      <Sensor>0</Sensor>
+      <Color>#FFFF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+  </ResultData>
+</ResultObject>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus">
+    <VehicleStatus>
+      <VehicleID>46535</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>ET001 - Brad Helminen</VehicleName>
+      <TrackDate>2020-01-30T14:30:28</TrackDate>
+      <Address>66116 Keahipaka Ln</Address>
+      <City>Haleiwa</City>
+      <State>HI</State>
+      <Dir>8</Dir>
+      <Speed>0</Speed>
+      <Lat>21.5876846</Lat>
+      <Lon>-158.11087</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#008080</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46719</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>ET002-Jared Helminen</VehicleName>
+      <TrackDate>2020-01-30T14:56:38</TrackDate>
+      <Address>66394 Haleiwa Rd</Address>
+      <City>Haleiwa</City>
+      <State>HI</State>
+      <Dir>116</Dir>
+      <Speed>0</Speed>
+      <Lat>21.5872078</Lat>
+      <Lon>-158.111343</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>29</Duration>
+      <Sensor>0</Sensor>
+      <Color>#008080</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>TripEnd</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>8</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+  </ResultData>
+</ResultObject>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfVehicleStatus">
+    <VehicleStatus>
+      <VehicleID>46613</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE1021 - Maui Construction</VehicleName>
+      <TrackDate>2020-01-15T00:07:40</TrackDate>
+      <Address>AEC Maui Office</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>0</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8500881</Lat>
+      <Lon>-156.48851</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46611</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE1007 - Maui Shop</VehicleName>
+      <TrackDate>2020-01-30T14:41:27</TrackDate>
+      <Address>AEC Maui Office</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>82</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8504066</Lat>
+      <Lon>-156.488358</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46464</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE107-Sam Waiohu</VehicleName>
+      <TrackDate>2020-01-30T14:52:24</TrackDate>
+      <Address>AEC Maui Office</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>196</Dir>
+      <Speed>0</Speed>
+      <Lat>20.85028</Lat>
+      <Lon>-156.488464</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46607</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE045 - Gavin Bras</VehicleName>
+      <TrackDate>2020-01-30T14:55:42</TrackDate>
+      <Address>1368 Keawe St</Address>
+      <City>Lahaina</City>
+      <State>HI</State>
+      <Dir>62</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8852749</Lat>
+      <Lon>-156.678864</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>33</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>IdlingStart</Status>
+      <StatusUser>Idling</StatusUser>
+      <Online>true</Online>
+      <Gps>false</Gps>
+      <TriggerEvent>11</TriggerEvent>
+      <Mask>657693</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46609</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE099 - Maui Shop</VehicleName>
+      <TrackDate>2020-01-30T15:10:40</TrackDate>
+      <Address>AEC Maui Office</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>128</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8503933</Lat>
+      <Lon>-156.488464</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46640</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE078 - Maui Shop</VehicleName>
+      <TrackDate>2020-01-30T15:11:20</TrackDate>
+      <Address>AEC Maui Office</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>192</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8501377</Lat>
+      <Lon>-156.488464</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>17</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>TripEnd</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>8</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46641</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE133 - David Nanod</VehicleName>
+      <TrackDate>2020-01-30T15:12:45</TrackDate>
+      <Address>21 Ing Pl</Address>
+      <City>Kaunakakai</City>
+      <State>HI</State>
+      <Dir>348</Dir>
+      <Speed>0</Speed>
+      <Lat>21.09194</Lat>
+      <Lon>-157.020233</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46602</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE084 - Scot Hashimoto</VehicleName>
+      <TrackDate>2020-01-30T15:16:17</TrackDate>
+      <Address>AEC Maui Office</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>200</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8502712</Lat>
+      <Lon>-156.4885</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46614</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE059 - John Gerard</VehicleName>
+      <TrackDate>2020-01-30T15:17:11</TrackDate>
+      <Address>1 Hukilani Pl</Address>
+      <City>Pukalani</City>
+      <State>HI</State>
+      <Dir>342</Dir>
+      <Speed>0</Speed>
+      <Lat>20.8408031</Lat>
+      <Lon>-156.348785</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>43678</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE128 - Jonathan Nicholas</VehicleName>
+      <TrackDate>2020-01-30T15:27:47</TrackDate>
+      <Address>State Hwy 380</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>30</Dir>
+      <Speed>60</Speed>
+      <Lat>20.8556271</Lat>
+      <Lon>-156.480942</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>1</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46612</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE060 - Mike Kimura</VehicleName>
+      <TrackDate>2020-01-30T15:27:48</TrackDate>
+      <Address>Hana Hwy</Address>
+      <City>Kahului</City>
+      <State>HI</State>
+      <Dir>34</Dir>
+      <Speed>36</Speed>
+      <Lat>20.8827324</Lat>
+      <Lon>-156.428665</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>1</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46858</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE135 - Mike KImura</VehicleName>
+      <TrackDate>2020-01-30T15:28:40</TrackDate>
+      <Address>1424 State Hwy 30</Address>
+      <City>Waikapu</City>
+      <State>HI</State>
+      <Dir>12</Dir>
+      <Speed>40</Speed>
+      <Lat>20.8512917</Lat>
+      <Lon>-156.5042</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>0</Duration>
+      <Sensor>0</Sensor>
+      <Color>#6fa0e8</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+  </ResultData>
+</ResultObject>
