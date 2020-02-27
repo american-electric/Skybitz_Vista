@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.reltima.com/">
+  <ResultCode>0</ResultCode>
+  <ResultMessage>success</ResultMessage>
+  <ResultData xsi:type="ArrayOfFleetStatus">
+    <FleetStatus>
+      <FleetID>10024</FleetID>
+      <FleetName>Big Island</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10080</FleetID>
+      <FleetName>Construction</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10177</FleetID>
+      <FleetName>Controls</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10156</FleetID>
+      <FleetName>CraneTech</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>11341</FleetID>
+      <FleetName>ElectroTest</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10743</FleetID>
+      <FleetName>G&amp;PS</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10025</FleetID>
+      <FleetName>Kauai</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>9892</FleetID>
+      <FleetName>Main Fleet</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10026</FleetID>
+      <FleetName>Maui</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10023</FleetID>
+      <FleetName>Oahu All</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>11024</FleetID>
+      <FleetName>Oahu Shop</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10176</FleetID>
+      <FleetName>PV</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10067</FleetID>
+      <FleetName>Service</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>10175</FleetID>
+      <FleetName>Telcom</FleetName>
+    </FleetStatus>
+    <FleetStatus>
+      <FleetID>11306</FleetID>
+      <FleetName>units to assign to fleets or remove</FleetName>
+    </FleetStatus>
+  </ResultData>
+</ResultObject>

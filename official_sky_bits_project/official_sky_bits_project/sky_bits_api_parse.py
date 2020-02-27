@@ -32,7 +32,7 @@ def loading_bar(fleet_dict, fleet, counter):
 
 def fleet_list_dict():
     # ready for import
-    parameters = {"user": "jjacinto@americanelectric.com", "password": "Blehbleh808"}
+    parameters = {"user": "jjacinto@americanelectric.com", "password": "Blehbleh808_locked_out"}
     response = requests.get("https://www.perigeegps.com/api/v1/DataFleetStatus2.asmx/GetFleetList?", params=parameters)
     with open('fleet_list.xml', 'wb') as f:
         f.write(response.content)
@@ -59,21 +59,25 @@ def get_odometer_data(vehicle_id):
     past = now + datetime.timedelta(-30)
     end_date_string = now.strftime("%m/%d/%Y")
     start_date_string = past.strftime("%m/%d/%Y")
-    parameters = {"vehicleID": vehicle_id, "start": start_date_string, "end": end_date_string, "user": "jjacinto@americanelectric.com", "password": "Blehbleh808"}
+    parameters = {"vehicleID": vehicle_id, "start": start_date_string, "end": end_date_string, "user": "jjacinto@americanelectric.com", "password": "Blehbleh808_locked_out"}
     response = requests.get("https://www.perigeegps.com/api/v1/DataFleetStatus2.asmx/GetVehicleTracksWithOdometer?", params=parameters)
     with open('odometer_data.xml', 'wb') as f:
         f.write(response.content)
     tree = ET.parse("odometer_data.xml")
     root = tree.getroot()
     odometer_data = []
+    odometer_data_date = []
     for child in root:
         if child.tag == "{http://www.reltima.com/}ResultData":
             for status in child:
                 for details in status:
                     if details.tag == "{http://www.reltima.com/}Odometer":
                         odometer_data.append(details.text)
+                    elif details.tag == "{http://www.reltima.com/}TrackDate":
+                        odometer_data_date.append(details.text)
     if odometer_data:
-        return odometer_data[len(odometer_data) - 1]
+        # import pdb; pdb.set_trace()
+        return odometer_data[len(odometer_data) - 1], odometer_data_date[len(odometer_data_date) - 1]
     else:
         return None
 
@@ -121,7 +125,7 @@ def company_rectifier(vehicle_export_list, entire_fleet):
         if vehicle[0] in [i[0] for i in company_checker] and vehicle[3] == 1:
             for item in company_checker:
                 if vehicle[0] == item[0]:
-                    final_export.append([vehicle[0], vehicle[1], vehicle[2], item[3]])
+                    final_export.append([vehicle[0], vehicle[1], vehicle[2], item[3], vehicle[len(vehicle)-2]])
         else:
             final_export.append(vehicle)
     return final_export
@@ -149,7 +153,7 @@ def get_fleet_array(fleet_list_dict):
     loading_bar(fleet_list_dict, "", counter)
     for fleet in fleet_list_dict:
         xml_filename = fleet
-        parameters = {"fleetID": fleet_list_dict[fleet], "user": "jjacinto@americanelectric.com", "password": "Blehbleh808"}
+        parameters = {"fleetID": fleet_list_dict[fleet], "user": "jjacinto@americanelectric.com", "password": "Blehbleh808_locked_out"}
         response = requests.get("https://www.perigeegps.com/api/v1/DataFleetStatus2.asmx/GetFleetStatus?", params=parameters)
         with open(xml_filename, 'wb') as f:
             f.write(response.content)
@@ -161,11 +165,14 @@ def get_fleet_array(fleet_list_dict):
                 for vehicle_status in child:
                     details_list = []
                     vehicle_odometer_data = 0
+                    # vehicle_odometer_date = None
                     for vehicle_description in vehicle_status:
                         if vehicle_description.tag == "{http://www.reltima.com/}VehicleID":
-                            odometer_data_variable = get_odometer_data(vehicle_description.text)
+                            odometer_data_variable, odometer_data_date_variable = get_odometer_data(vehicle_description.text)
                             if odometer_data_variable:
                                 vehicle_odometer_data += float(odometer_data_variable)
+                            elif odometer_data_date_variable:
+                                vehicle_odometer_date += odometer_data_date_variable
                             else:
                                 vehicle_odometer_data = None
                         if vehicle_description.tag == "{http://www.reltima.com/}VehicleName":
@@ -174,6 +181,7 @@ def get_fleet_array(fleet_list_dict):
                             details_list.append(vehicle_odometer_data)
                     details_list.append(fleet)
                     details_list.append(get_company(fleet))
+                    details_list.append(odometer_data_date_variable)
                     entire_fleet.append(details_list)
                 child_counter += 1
         counter += 1
@@ -217,8 +225,9 @@ def get_fleet_array(fleet_list_dict):
 def get_formatted_date():
     now = datetime.datetime.now()
     current_month = now.strftime("%m")
+    current_day = now.strftime("%d")
     current_year = now.strftime("%Y")
-    formatted_date = "{}/1/{}".format(current_month, current_year) # use this date for mth
+    formatted_date = "{}/{}/{}".format(current_month, current_day, current_year) # use this date for mth
     return formatted_date
 
 def csv_import(get_fleet_array):
@@ -226,7 +235,7 @@ def csv_import(get_fleet_array):
     file_formatted_date = "skybitz_{}{}{}.csv".format(formatted_date.split('/')[2], formatted_date.split('/')[1], formatted_date.split('/')[0])
     with open(file_formatted_date, mode='w', newline='') as csv_file:
         report_writer = csv.writer(csv_file)
-        report_writer.writerow(['Co','Mth','BatchSeq','Equipment','CurrentOdometer']) # for csv
+        report_writer.writerow(['Co','Mth','BatchSeq','Equipment','CurrentOdometer', 'MeterReadDate']) # for csv
         report_list = []
         batch_counter = 1
         for vehicle in get_fleet_array:
@@ -236,8 +245,8 @@ def csv_import(get_fleet_array):
                 batch_seq = batch_counter
                 equipment = vehicle[0].strip().split("-")[0]
                 current_odometer = vehicle[1]
-                report_writer.writerow([co,mth,batch_seq,equipment,current_odometer])
+                meter_read_date = vehicle[4].split('T')[0]
+                report_writer.writerow([co,mth,batch_seq,equipment,current_odometer,meter_read_date])
                 batch_counter += 1
     import_to_ftp(file_formatted_date)
-    os.remove(file_formatted_date)
-            
+    # os.remove(file_formatted_date)

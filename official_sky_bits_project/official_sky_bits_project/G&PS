@@ -7,25 +7,25 @@
       <VehicleID>46470</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>GPS001 - Shawn Ortiz</VehicleName>
-      <TrackDate>2020-01-30T14:44:35</TrackDate>
-      <Address>2378 Pahounui Dr</Address>
-      <City>Honolulu</City>
+      <TrackDate>2020-02-24T07:40:15</TrackDate>
+      <Address>96002 Waiawa Rd</Address>
+      <City>Pearl City</City>
       <State>HI</State>
-      <Dir>316</Dir>
+      <Dir>184</Dir>
       <Speed>0</Speed>
-      <Lat>21.3248577</Lat>
-      <Lon>-157.89212</Lon>
+      <Lat>21.3899879</Lat>
+      <Lon>-157.988541</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
+      <Duration>56</Duration>
       <Sensor>0</Sensor>
       <Color>#FF6600</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>Stopped</Status>
+      <Status>TripEnd</Status>
       <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
+      <TriggerEvent>8</TriggerEvent>
       <Mask>658716</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
@@ -35,14 +35,14 @@
       <VehicleID>46426</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>GPS002 - Edward Smythe</VehicleName>
-      <TrackDate>2020-01-30T15:12:26</TrackDate>
+      <TrackDate>2020-02-24T08:26:11</TrackDate>
       <Address>2378 Pahounui Dr</Address>
       <City>Honolulu</City>
       <State>HI</State>
-      <Dir>140</Dir>
+      <Dir>324</Dir>
       <Speed>0</Speed>
-      <Lat>21.3249912</Lat>
-      <Lon>-157.892273</Lon>
+      <Lat>21.3249817</Lat>
+      <Lon>-157.8923</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>

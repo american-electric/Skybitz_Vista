@@ -16,7 +16,7 @@
       <Lat>21.9810448</Lat>
       <Lon>-159.369965</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>1271</Duration>
+      <Duration>36862</Duration>
       <Sensor>0</Sensor>
       <Color>#00FF00</Color>
       <Alert />
@@ -32,129 +32,17 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>46691</VehicleID>
+      <VehicleID>46720</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE138 - Gavin Yotsuda</VehicleName>
-      <TrackDate>2020-01-30T14:49:07</TrackDate>
+      <VehicleName>AE121 - John Melchor</VehicleName>
+      <TrackDate>2020-02-24T07:53:42</TrackDate>
       <Address>AEC Kauai Office</Address>
       <City>Puhi</City>
       <State>HI</State>
-      <Dir>208</Dir>
+      <Dir>356</Dir>
       <Speed>0</Speed>
-      <Lat>21.9568062</Lat>
-      <Lon>-159.391846</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>36</Duration>
-      <Sensor>0</Sensor>
-      <Color>#00FF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>IgnOff</Status>
-      <StatusUser>Ign off</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>1</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46695</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE115 - Mel Tapucol</VehicleName>
-      <TrackDate>2020-01-30T14:49:24</TrackDate>
-      <Address>3443 Ahukini Rd</Address>
-      <City>Lihue</City>
-      <State>HI</State>
-      <Dir>108</Dir>
-      <Speed>0</Speed>
-      <Lat>21.9857</Lat>
-      <Lon>-159.3411</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>36</Duration>
-      <Sensor>0</Sensor>
-      <Color>#00FF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>IdlingStart</Status>
-      <StatusUser>Idling</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>11</TriggerEvent>
-      <Mask>658717</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46684</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE109 - Alan Duterte</VehicleName>
-      <TrackDate>2020-01-30T14:49:52</TrackDate>
-      <Address>AEC Kauai Office</Address>
-      <City>Puhi</City>
-      <State>HI</State>
-      <Dir>274</Dir>
-      <Speed>0</Speed>
-      <Lat>21.9568825</Lat>
-      <Lon>-159.391739</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>36</Duration>
-      <Sensor>0</Sensor>
-      <Color>#00FF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>IgnOff</Status>
-      <StatusUser>Ign off</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>1</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46696</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE101 - Scott Matsunaga</VehicleName>
-      <TrackDate>2020-01-30T14:50:12</TrackDate>
-      <Address>4106 Hardy St</Address>
-      <City>Lihue</City>
-      <State>HI</State>
-      <Dir>8</Dir>
-      <Speed>0</Speed>
-      <Lat>21.9721</Lat>
-      <Lon>-159.364212</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
-      <Sensor>0</Sensor>
-      <Color>#00FF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>Stopped</Status>
-      <StatusUser>Stopped</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46721</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE114 - Joshua Kahananui</VehicleName>
-      <TrackDate>2020-01-30T14:51:49</TrackDate>
-      <Address>3443 Ahukini Rd</Address>
-      <City>Lihue</City>
-      <State>HI</State>
-      <Dir>86</Dir>
-      <Speed>0</Speed>
-      <Lat>21.9856529</Lat>
-      <Lon>-159.341034</Lon>
+      <Lat>21.9567337</Lat>
+      <Lon>-159.3918</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
@@ -175,44 +63,16 @@
       <VehicleID>43679</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE120 - Alfred Cacatian</VehicleName>
-      <TrackDate>2020-01-30T15:00:42</TrackDate>
-      <Address>3931 Hoohana St</Address>
-      <City>Hanamaulu</City>
+      <TrackDate>2020-02-24T08:18:05</TrackDate>
+      <Address>AEC Kauai Office</Address>
+      <City>Puhi</City>
       <State>HI</State>
-      <Dir>338</Dir>
+      <Dir>356</Dir>
       <Speed>0</Speed>
-      <Lat>21.9927044</Lat>
-      <Lon>-159.357239</Lon>
+      <Lat>21.9568768</Lat>
+      <Lon>-159.391663</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>25</Duration>
-      <Sensor>0</Sensor>
-      <Color>#00FF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>TripEnd</Status>
-      <StatusUser>Stopped</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>8</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46723</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE097 - Justin Kashiwabara</VehicleName>
-      <TrackDate>2020-01-30T15:14:36</TrackDate>
-      <Address>4111 Hardy St</Address>
-      <City>Lihue</City>
-      <State>HI</State>
-      <Dir>216</Dir>
-      <Speed>0</Speed>
-      <Lat>21.97243</Lat>
-      <Lon>-159.364059</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>11</Duration>
+      <Duration>18</Duration>
       <Sensor>0</Sensor>
       <Color>#00FF00</Color>
       <Alert />
@@ -228,17 +88,129 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>46720</VehicleID>
+      <VehicleID>46696</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE121 - John Melchor</VehicleName>
-      <TrackDate>2020-01-30T15:16:23</TrackDate>
+      <VehicleName>AE101 - Scott Matsunaga</VehicleName>
+      <TrackDate>2020-02-24T08:24:03</TrackDate>
+      <Address>2996 Hoolako St</Address>
+      <City>Lihue</City>
+      <State>HI</State>
+      <Dir>38</Dir>
+      <Speed>0</Speed>
+      <Lat>21.9687347</Lat>
+      <Lon>-159.360077</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#00FF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46723</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE097 - Justin Kashiwabara</VehicleName>
+      <TrackDate>2020-02-24T08:24:52</TrackDate>
       <Address>AEC Kauai Office</Address>
       <City>Puhi</City>
       <State>HI</State>
-      <Dir>8</Dir>
+      <Dir>284</Dir>
       <Speed>0</Speed>
-      <Lat>21.9567642</Lat>
-      <Lon>-159.391785</Lon>
+      <Lat>21.9568348</Lat>
+      <Lon>-159.3918</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>12</Duration>
+      <Sensor>0</Sensor>
+      <Color>#00FF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>TripEnd</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>8</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46687</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE079 - Robin Kurisu</VehicleName>
+      <TrackDate>2020-02-24T08:28:11</TrackDate>
+      <Address>3001 Hoolako St</Address>
+      <City>Lihue</City>
+      <State>HI</State>
+      <Dir>212</Dir>
+      <Speed>0</Speed>
+      <Lat>21.9688644</Lat>
+      <Lon>-159.360092</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>8</Duration>
+      <Sensor>0</Sensor>
+      <Color>#00FF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>TripEnd</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>8</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46691</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE138 - Gavin Yotsuda</VehicleName>
+      <TrackDate>2020-02-24T08:32:14</TrackDate>
+      <Address>State Hwy 50</Address>
+      <City>Waimea</City>
+      <State>HI</State>
+      <Dir>298</Dir>
+      <Speed>0</Speed>
+      <Lat>21.9546814</Lat>
+      <Lon>-159.667038</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>4</Duration>
+      <Sensor>0</Sensor>
+      <Color>#00FF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>TripEnd</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>8</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46695</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE115 - Mel Tapucol</VehicleName>
+      <TrackDate>2020-02-24T08:34:00</TrackDate>
+      <Address>AEC Kauai Office</Address>
+      <City>Puhi</City>
+      <State>HI</State>
+      <Dir>332</Dir>
+      <Speed>0</Speed>
+      <Lat>21.9567146</Lat>
+      <Lon>-159.391846</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
@@ -259,16 +231,16 @@
       <VehicleID>46690</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE098 - Marlo Caoagas</VehicleName>
-      <TrackDate>2020-01-30T15:20:52</TrackDate>
-      <Address>4337 Puhi Rd</Address>
+      <TrackDate>2020-02-24T08:34:16</TrackDate>
+      <Address>4310 Puhi Rd</Address>
       <City>Puhi</City>
       <State>HI</State>
-      <Dir>358</Dir>
+      <Dir>328</Dir>
       <Speed>0</Speed>
-      <Lat>21.96177</Lat>
-      <Lon>-159.3931</Lon>
+      <Lat>21.9630032</Lat>
+      <Lon>-159.392471</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>5</Duration>
+      <Duration>2</Duration>
       <Sensor>0</Sensor>
       <Color>#00FF00</Color>
       <Alert />
@@ -284,29 +256,57 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>46687</VehicleID>
+      <VehicleID>46721</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE079 - Robin Kurisu</VehicleName>
-      <TrackDate>2020-01-30T15:24:46</TrackDate>
-      <Address>4113 Hardy St</Address>
-      <City>Lihue</City>
+      <VehicleName>AE114 - Joshua Kahananui</VehicleName>
+      <TrackDate>2020-02-24T08:35:58</TrackDate>
+      <Address>State Hwy 50</Address>
+      <City>Kekaha</City>
       <State>HI</State>
-      <Dir>220</Dir>
-      <Speed>0</Speed>
-      <Lat>21.97233</Lat>
-      <Lon>-159.364151</Lon>
+      <Dir>318</Dir>
+      <Speed>49</Speed>
+      <Lat>21.97624</Lat>
+      <Lon>-159.735657</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>1</Duration>
       <Sensor>0</Sensor>
       <Color>#00FF00</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>TripEnd</Status>
-      <StatusUser>Stopped</StatusUser>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>8</TriggerEvent>
-      <Mask>658716</Mask>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46684</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE109 - Alan Duterte</VehicleName>
+      <TrackDate>2020-02-24T08:36:05</TrackDate>
+      <Address>Kaumualii Hwy</Address>
+      <City>Kaumakani</City>
+      <State>HI</State>
+      <Dir>306</Dir>
+      <Speed>49</Speed>
+      <Lat>21.925</Lat>
+      <Lon>-159.629776</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>0</Duration>
+      <Sensor>0</Sensor>
+      <Color>#00FF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>

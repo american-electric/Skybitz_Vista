@@ -4,21 +4,49 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>46523</VehicleID>
+      <VehicleID>46492</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>CT006-Roderick Shepard</VehicleName>
-      <TrackDate>2020-02-24T08:20:24</TrackDate>
-      <Address>Bougainvillea Dr</Address>
-      <City>Halawa</City>
+      <VehicleName>AE067 - Nate Martin</VehicleName>
+      <TrackDate>2020-02-26T12:04:54</TrackDate>
+      <Address>2283 Waikolu Way</Address>
+      <City>Honolulu</City>
       <State>HI</State>
-      <Dir>26</Dir>
+      <Dir>30</Dir>
       <Speed>0</Speed>
-      <Lat>21.3583431</Lat>
-      <Lon>-157.924942</Lon>
+      <Lat>21.2798767</Lat>
+      <Lon>-157.827652</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>16</Duration>
+      <Duration>61</Duration>
       <Sensor>0</Sensor>
-      <Color>#FFFF00</Color>
+      <Color>#008000</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>false</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>657692</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>48945</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE139-Kinoa Lee</VehicleName>
+      <TrackDate>2020-02-26T12:07:00</TrackDate>
+      <Address>Essex Rd</Address>
+      <City>Ewa Beach</City>
+      <State>HI</State>
+      <Dir>40</Dir>
+      <Speed>0</Speed>
+      <Lat>21.3302441</Lat>
+      <Lon>-158.037125</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>43</Duration>
+      <Sensor>0</Sensor>
+      <Color>#008000</Color>
       <Alert />
       <Odometer>0</Odometer>
       <Status>TripEnd</Status>
@@ -32,56 +60,28 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>46471</VehicleID>
+      <VehicleID>46424</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>CT004 -On loan to GPS</VehicleName>
-      <TrackDate>2020-02-24T08:20:50</TrackDate>
-      <Address>2378 Pahounui Dr</Address>
+      <VehicleName>AE113 - Jan Agbigay</VehicleName>
+      <TrackDate>2020-02-26T12:30:37</TrackDate>
+      <Address>6142 Summer St</Address>
       <City>Honolulu</City>
       <State>HI</State>
-      <Dir>334</Dir>
+      <Dir>354</Dir>
       <Speed>0</Speed>
-      <Lat>21.3249359</Lat>
-      <Lon>-157.8922</Lon>
+      <Lat>21.2854862</Lat>
+      <Lon>-157.722168</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
+      <Duration>20</Duration>
       <Sensor>0</Sensor>
-      <Color>#FFFF00</Color>
+      <Color>#008000</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>Stopped</Status>
+      <Status>TripEnd</Status>
       <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>43682</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>CT005 - on loan to AE</VehicleName>
-      <TrackDate>2020-02-24T08:24:22</TrackDate>
-      <Address>Waiawa Rd</Address>
-      <City>Pearl City</City>
-      <State>HI</State>
-      <Dir>280</Dir>
-      <Speed>0</Speed>
-      <Lat>21.389</Lat>
-      <Lon>-157.9747</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
-      <Sensor>0</Sensor>
-      <Color>#FFFF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>Stopped</Status>
-      <StatusUser>Stopped</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
+      <TriggerEvent>8</TriggerEvent>
       <Mask>658716</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>

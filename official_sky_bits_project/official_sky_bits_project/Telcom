@@ -7,14 +7,14 @@
       <VehicleID>46408</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE111 - Edward Luna</VehicleName>
-      <TrackDate>2020-01-30T14:31:47</TrackDate>
-      <Address>95223 Waipono St</Address>
+      <TrackDate>2020-02-24T08:37:25</TrackDate>
+      <Address>AEC Oahu Office</Address>
       <City>Waipio Acres</City>
       <State>HI</State>
-      <Dir>330</Dir>
+      <Dir>260</Dir>
       <Speed>0</Speed>
-      <Lat>21.4648781</Lat>
-      <Lon>-158.013763</Lon>
+      <Lat>21.4825668</Lat>
+      <Lon>-158.011108</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
@@ -35,26 +35,26 @@
       <VehicleID>46542</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE124 - Jenson Takara</VehicleName>
-      <TrackDate>2020-01-30T15:19:38</TrackDate>
-      <Address>951002 Kuhea St</Address>
-      <City>Mililani Town</City>
+      <TrackDate>2020-02-24T08:41:21</TrackDate>
+      <Address>862 9th Ave</Address>
+      <City>Honolulu</City>
       <State>HI</State>
-      <Dir>306</Dir>
+      <Dir>220</Dir>
       <Speed>0</Speed>
-      <Lat>21.4749928</Lat>
-      <Lon>-157.991547</Lon>
+      <Lat>21.27968</Lat>
+      <Lon>-157.805222</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
+      <Duration>0</Duration>
       <Sensor>0</Sensor>
       <Color>#08ebef</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>Stopped</Status>
-      <StatusUser>Stopped</StatusUser>
+      <Status>IgnOn</Status>
+      <StatusUser>Ign on</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
-      <Mask>658716</Mask>
+      <TriggerEvent>1</TriggerEvent>
+      <Mask>658717</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>

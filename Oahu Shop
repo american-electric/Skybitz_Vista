@@ -4,57 +4,57 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>46541</VehicleID>
+      <VehicleID>46527</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE136 - Lance Uchima</VehicleName>
-      <TrackDate>2020-02-24T07:47:56</TrackDate>
-      <Address>549 Kaumakani St</Address>
-      <City>Honolulu</City>
+      <VehicleName>AE064 - Oahu Shop Flatbed</VehicleName>
+      <TrackDate>2020-02-26T11:52:16</TrackDate>
+      <Address>AEC Oahu Office</Address>
+      <City>Waipio Acres</City>
       <State>HI</State>
-      <Dir>116</Dir>
+      <Dir>206</Dir>
       <Speed>0</Speed>
-      <Lat>21.2816277</Lat>
-      <Lon>-157.6987</Lon>
+      <Lat>21.48255</Lat>
+      <Lon>-158.0111</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
+      <Duration>58</Duration>
       <Sensor>0</Sensor>
-      <Color>#CC99FF</Color>
+      <Color>#ff7dbd</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>Stopped</Status>
-      <StatusUser>Stopped</StatusUser>
+      <Status>IgnOff</Status>
+      <StatusUser>Ign off</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
+      <TriggerEvent>1</TriggerEvent>
       <Mask>658716</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>49290</VehicleID>
+      <VehicleID>46520</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE137 - Oak Grant</VehicleName>
-      <TrackDate>2020-02-24T08:21:10</TrackDate>
-      <Address>200 Ward Ave</Address>
-      <City>Honolulu</City>
+      <VehicleName>AE141- Oahu Shop Truck </VehicleName>
+      <TrackDate>2020-02-26T12:50:05</TrackDate>
+      <Address>I-H-2</Address>
+      <City>Waipio</City>
       <State>HI</State>
-      <Dir>52</Dir>
-      <Speed>0</Speed>
-      <Lat>21.295496</Lat>
-      <Lon>-157.857346</Lon>
+      <Dir>170</Dir>
+      <Speed>63</Speed>
+      <Lat>21.418623</Lat>
+      <Lon>-157.994247</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>61</Duration>
+      <Duration>0</Duration>
       <Sensor>0</Sensor>
-      <Color>#CC99FF</Color>
+      <Color>#ff7dbd</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>Stopped</Status>
-      <StatusUser>Stopped</StatusUser>
+      <Status>Moving</Status>
+      <StatusUser>Moving</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>10</TriggerEvent>
-      <Mask>658716</Mask>
+      <TriggerEvent>9</TriggerEvent>
+      <Mask>659229</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>

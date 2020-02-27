@@ -4,45 +4,17 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>46523</VehicleID>
+      <VehicleID>43682</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>CT006-Roderick Shepard</VehicleName>
-      <TrackDate>2020-02-24T08:20:24</TrackDate>
-      <Address>Bougainvillea Dr</Address>
-      <City>Halawa</City>
+      <VehicleName>CT005 - on loan to AE</VehicleName>
+      <TrackDate>2020-02-26T12:04:44</TrackDate>
+      <Address>Waiawa Rd</Address>
+      <City>Pearl City</City>
       <State>HI</State>
-      <Dir>26</Dir>
+      <Dir>278</Dir>
       <Speed>0</Speed>
-      <Lat>21.3583431</Lat>
-      <Lon>-157.924942</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>16</Duration>
-      <Sensor>0</Sensor>
-      <Color>#FFFF00</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>TripEnd</Status>
-      <StatusUser>Stopped</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>8</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46471</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>CT004 -On loan to GPS</VehicleName>
-      <TrackDate>2020-02-24T08:20:50</TrackDate>
-      <Address>2378 Pahounui Dr</Address>
-      <City>Honolulu</City>
-      <State>HI</State>
-      <Dir>334</Dir>
-      <Speed>0</Speed>
-      <Lat>21.3249359</Lat>
-      <Lon>-157.8922</Lon>
+      <Lat>21.38903</Lat>
+      <Lon>-157.9746</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
@@ -60,17 +32,45 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>43682</VehicleID>
+      <VehicleID>46471</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>CT005 - on loan to AE</VehicleName>
-      <TrackDate>2020-02-24T08:24:22</TrackDate>
-      <Address>Waiawa Rd</Address>
-      <City>Pearl City</City>
+      <VehicleName>CT004 -On loan to GPS</VehicleName>
+      <TrackDate>2020-02-26T12:09:37</TrackDate>
+      <Address>499 Kaalakei St</Address>
+      <City>Honolulu</City>
       <State>HI</State>
-      <Dir>280</Dir>
+      <Dir>82</Dir>
       <Speed>0</Speed>
-      <Lat>21.389</Lat>
-      <Lon>-157.9747</Lon>
+      <Lat>21.29472</Lat>
+      <Lon>-157.715942</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#FFFF00</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46523</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>CT006-Roderick Shepard</VehicleName>
+      <TrackDate>2020-02-26T12:45:31</TrackDate>
+      <Address>Bougainvillea Dr</Address>
+      <City>Halawa</City>
+      <State>HI</State>
+      <Dir>86</Dir>
+      <Speed>0</Speed>
+      <Lat>21.3584843</Lat>
+      <Lon>-157.92543</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>

@@ -4,17 +4,17 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>46535</VehicleID>
+      <VehicleID>46719</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>ET001 - Brad Helminen</VehicleName>
-      <TrackDate>2020-01-30T14:30:28</TrackDate>
-      <Address>66116 Keahipaka Ln</Address>
+      <VehicleName>ET002-Jared Helminen</VehicleName>
+      <TrackDate>2020-02-24T07:41:49</TrackDate>
+      <Address>66392 Haleiwa Rd</Address>
       <City>Haleiwa</City>
       <State>HI</State>
-      <Dir>8</Dir>
+      <Dir>26</Dir>
       <Speed>0</Speed>
-      <Lat>21.5876846</Lat>
-      <Lon>-158.11087</Lon>
+      <Lat>21.5872765</Lat>
+      <Lon>-158.111359</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
@@ -32,28 +32,28 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>46719</VehicleID>
+      <VehicleID>46535</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>ET002-Jared Helminen</VehicleName>
-      <TrackDate>2020-01-30T14:56:38</TrackDate>
-      <Address>66394 Haleiwa Rd</Address>
+      <VehicleName>ET001 - Brad Helminen</VehicleName>
+      <TrackDate>2020-02-24T07:42:45</TrackDate>
+      <Address>66116 Keahipaka Ln</Address>
       <City>Haleiwa</City>
       <State>HI</State>
-      <Dir>116</Dir>
+      <Dir>40</Dir>
       <Speed>0</Speed>
-      <Lat>21.5872078</Lat>
-      <Lon>-158.111343</Lon>
+      <Lat>21.58768</Lat>
+      <Lon>-158.110825</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>29</Duration>
+      <Duration>61</Duration>
       <Sensor>0</Sensor>
       <Color>#008080</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>TripEnd</Status>
+      <Status>Stopped</Status>
       <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>8</TriggerEvent>
+      <TriggerEvent>10</TriggerEvent>
       <Mask>658716</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>

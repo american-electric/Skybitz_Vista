@@ -4,45 +4,101 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>46769</VehicleID>
+      <VehicleID>46732</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE077 - Brian Ayoso</VehicleName>
-      <TrackDate>2020-01-30T14:26:35</TrackDate>
-      <Address>Kaiwi St</Address>
-      <City>Kailua</City>
+      <VehicleName>AE146-Francis Shimamoto</VehicleName>
+      <TrackDate>2020-02-24T07:41:10</TrackDate>
+      <Address>Poha St</Address>
+      <City>Naalehu</City>
       <State>HI</State>
-      <Dir>336</Dir>
+      <Dir>192</Dir>
       <Speed>0</Speed>
-      <Lat>19.6441631</Lat>
-      <Lon>-156.001862</Lon>
+      <Lat>19.0600853</Lat>
+      <Lon>-155.5804</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>58</Duration>
+      <Duration>61</Duration>
       <Sensor>0</Sensor>
       <Color>#08ebef</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>IgnOff</Status>
-      <StatusUser>Ign off</StatusUser>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>1</TriggerEvent>
+      <TriggerEvent>10</TriggerEvent>
       <Mask>658716</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>43676</VehicleID>
+      <VehicleID>43677</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE117 - Jay Salazar</VehicleName>
-      <TrackDate>2020-01-30T14:35:35</TrackDate>
-      <Address>74817 Pa Pl</Address>
+      <VehicleName>AE116 - James Whipple</VehicleName>
+      <TrackDate>2020-02-24T07:41:18</TrackDate>
+      <Address>N Pszyk Rd</Address>
+      <City>Mountain View</City>
+      <State>HI</State>
+      <Dir>356</Dir>
+      <Speed>0</Speed>
+      <Lat>19.5615921</Lat>
+      <Lon>-155.124619</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>54</Duration>
+      <Sensor>0</Sensor>
+      <Color>#08ebef</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>TripEnd</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>8</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>49189</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE144-Levi Anderson</VehicleName>
+      <TrackDate>2020-02-24T07:41:25</TrackDate>
+      <Address>755698 Ololi Rd</Address>
       <City>Kailua</City>
       <State>HI</State>
-      <Dir>236</Dir>
+      <Dir>32</Dir>
       <Speed>0</Speed>
-      <Lat>19.67123</Lat>
-      <Lon>-155.993591</Lon>
+      <Lat>19.6441288</Lat>
+      <Lon>-155.991364</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#08ebef</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>false</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>657692</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>46856</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE132 - Jeff Sibayton</VehicleName>
+      <TrackDate>2020-02-24T07:47:14</TrackDate>
+      <Address>16773 Hoawa St</Address>
+      <City>Keaau</City>
+      <State>HI</State>
+      <Dir>148</Dir>
+      <Speed>0</Speed>
+      <Lat>19.6242313</Lat>
+      <Lon>-155.034943</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
@@ -63,82 +119,54 @@
       <VehicleID>46857</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE143-Jimmy Tuifua</VehicleName>
-      <TrackDate>2020-01-30T14:37:41</TrackDate>
-      <Address>745018 Queen Kaahumanu Hwy</Address>
-      <City>Kailua</City>
-      <State>HI</State>
-      <Dir>52</Dir>
-      <Speed>0</Speed>
-      <Lat>19.6446285</Lat>
-      <Lon>-155.991913</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>47</Duration>
-      <Sensor>0</Sensor>
-      <Color>#08ebef</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>TripEnd</Status>
-      <StatusUser>Stopped</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>8</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>49189</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE144-Levi Anderson</VehicleName>
-      <TrackDate>2020-01-30T15:04:44</TrackDate>
-      <Address>745058 Queen Kaahumanu Hwy</Address>
-      <City>Kailua</City>
-      <State>HI</State>
-      <Dir>38</Dir>
-      <Speed>0</Speed>
-      <Lat>19.6442184</Lat>
-      <Lon>-155.991226</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>20</Duration>
-      <Sensor>0</Sensor>
-      <Color>#08ebef</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>TripEnd</Status>
-      <StatusUser>Stopped</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>8</TriggerEvent>
-      <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46732</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE146-Francis Shimamoto</VehicleName>
-      <TrackDate>2020-01-30T15:20:43</TrackDate>
+      <TrackDate>2020-02-24T07:58:57</TrackDate>
       <Address>744970 Queen Kaahumanu Hwy</Address>
       <City>Kailua</City>
       <State>HI</State>
-      <Dir>290</Dir>
+      <Dir>278</Dir>
       <Speed>0</Speed>
-      <Lat>19.64464</Lat>
-      <Lon>-155.992065</Lon>
+      <Lat>19.6446381</Lat>
+      <Lon>-155.992188</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>4</Duration>
+      <Duration>61</Duration>
       <Sensor>0</Sensor>
       <Color>#08ebef</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>IgnOff</Status>
-      <StatusUser>Ign off</StatusUser>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
       <Gps>true</Gps>
-      <TriggerEvent>1</TriggerEvent>
+      <TriggerEvent>10</TriggerEvent>
       <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>43676</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE117 - Jay Salazar</VehicleName>
+      <TrackDate>2020-02-24T08:09:06</TrackDate>
+      <Address>755698 Ololi Rd</Address>
+      <City>Kailua</City>
+      <State>HI</State>
+      <Dir>62</Dir>
+      <Speed>0</Speed>
+      <Lat>19.64406</Lat>
+      <Lon>-155.991348</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#08ebef</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>false</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>657692</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>
@@ -147,82 +175,54 @@
       <VehicleID>46767</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE119 - Nelson Crabbe</VehicleName>
-      <TrackDate>2020-01-30T15:23:39</TrackDate>
-      <Address>745058 Queen Kaahumanu Hwy</Address>
-      <City>Kailua</City>
-      <State>HI</State>
-      <Dir>26</Dir>
-      <Speed>0</Speed>
-      <Lat>19.6441383</Lat>
-      <Lon>-155.991287</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>1</Duration>
-      <Sensor>0</Sensor>
-      <Color>#08ebef</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>IgnOn</Status>
-      <StatusUser>Ign on</StatusUser>
-      <Online>true</Online>
-      <Gps>false</Gps>
-      <TriggerEvent>1</TriggerEvent>
-      <Mask>657693</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46856</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE132 - Jeff Sibayton</VehicleName>
-      <TrackDate>2020-01-30T15:23:54</TrackDate>
+      <TrackDate>2020-02-24T08:11:40</TrackDate>
       <Address>755698 Ololi Rd</Address>
       <City>Kailua</City>
       <State>HI</State>
-      <Dir>14</Dir>
+      <Dir>32</Dir>
       <Speed>0</Speed>
-      <Lat>19.6440716</Lat>
-      <Lon>-155.991364</Lon>
+      <Lat>19.6440849</Lat>
+      <Lon>-155.991348</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>1</Duration>
+      <Duration>61</Duration>
       <Sensor>0</Sensor>
       <Color>#08ebef</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>IgnOn</Status>
-      <StatusUser>Ign on</StatusUser>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
       <Gps>false</Gps>
-      <TriggerEvent>1</TriggerEvent>
-      <Mask>657693</Mask>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>657692</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>43677</VehicleID>
+      <VehicleID>46769</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE116 - James Whipple</VehicleName>
-      <TrackDate>2020-01-30T15:24:16</TrackDate>
-      <Address>744972 Queen Kaahumanu Hwy</Address>
+      <VehicleName>AE077 - Brian Ayoso</VehicleName>
+      <TrackDate>2020-02-24T08:14:27</TrackDate>
+      <Address>755698 Ololi Rd</Address>
       <City>Kailua</City>
       <State>HI</State>
-      <Dir>264</Dir>
-      <Speed>2</Speed>
-      <Lat>19.64468</Lat>
-      <Lon>-155.992126</Lon>
+      <Dir>30</Dir>
+      <Speed>0</Speed>
+      <Lat>19.64407</Lat>
+      <Lon>-155.991348</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>0</Duration>
+      <Duration>61</Duration>
       <Sensor>0</Sensor>
       <Color>#08ebef</Color>
       <Alert />
       <Odometer>0</Odometer>
-      <Status>Moving</Status>
-      <StatusUser>Moving</StatusUser>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>9</TriggerEvent>
-      <Mask>659229</Mask>
+      <Gps>false</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>657692</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>

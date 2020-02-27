@@ -4,19 +4,19 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>48945</VehicleID>
+      <VehicleID>46424</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE139-Kinoa Lee</VehicleName>
-      <TrackDate>2020-01-30T14:48:40</TrackDate>
-      <Address>94934 Kaaholo St</Address>
-      <City>Village Park</City>
+      <VehicleName>AE113 - Jan Agbigay</VehicleName>
+      <TrackDate>2020-02-24T08:08:04</TrackDate>
+      <Address>951050 Kekahi St</Address>
+      <City>Wahiawa</City>
       <State>HI</State>
-      <Dir>172</Dir>
+      <Dir>30</Dir>
       <Speed>0</Speed>
-      <Lat>21.3953037</Lat>
-      <Lon>-158.020554</Lon>
+      <Lat>21.48011</Lat>
+      <Lon>-157.98764</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>42</Duration>
+      <Duration>33</Duration>
       <Sensor>0</Sensor>
       <Color>#008000</Color>
       <Alert />
@@ -35,16 +35,44 @@
       <VehicleID>46492</VehicleID>
       <TrackID>0</TrackID>
       <VehicleName>AE067 - Nate Martin</VehicleName>
-      <TrackDate>2020-01-30T15:26:07</TrackDate>
-      <Address>1614 Gulick Ave</Address>
-      <City>Honolulu</City>
+      <TrackDate>2020-02-24T08:12:48</TrackDate>
+      <Address>AEC Oahu Office</Address>
+      <City>Waipio Acres</City>
       <State>HI</State>
-      <Dir>342</Dir>
+      <Dir>32</Dir>
       <Speed>0</Speed>
-      <Lat>21.3383465</Lat>
-      <Lon>-157.871765</Lon>
+      <Lat>21.4825916</Lat>
+      <Lon>-158.010925</Lon>
       <TempValue>-2147483648</TempValue>
-      <Duration>4</Duration>
+      <Duration>61</Duration>
+      <Sensor>0</Sensor>
+      <Color>#008000</Color>
+      <Alert />
+      <Odometer>0</Odometer>
+      <Status>Stopped</Status>
+      <StatusUser>Stopped</StatusUser>
+      <Online>true</Online>
+      <Gps>true</Gps>
+      <TriggerEvent>10</TriggerEvent>
+      <Mask>658716</Mask>
+      <EventAttr>0</EventAttr>
+      <EventAttr2>0</EventAttr2>
+      <DeviceType>18</DeviceType>
+    </VehicleStatus>
+    <VehicleStatus>
+      <VehicleID>48945</VehicleID>
+      <TrackID>0</TrackID>
+      <VehicleName>AE139-Kinoa Lee</VehicleName>
+      <TrackDate>2020-02-24T08:36:44</TrackDate>
+      <Address>911500 Geiger Rd</Address>
+      <City>Ewa Beach</City>
+      <State>HI</State>
+      <Dir>126</Dir>
+      <Speed>0</Speed>
+      <Lat>21.330513</Lat>
+      <Lon>-158.0349</Lon>
+      <TempValue>-2147483648</TempValue>
+      <Duration>5</Duration>
       <Sensor>0</Sensor>
       <Color>#008000</Color>
       <Alert />
@@ -55,34 +83,6 @@
       <Gps>true</Gps>
       <TriggerEvent>8</TriggerEvent>
       <Mask>658716</Mask>
-      <EventAttr>0</EventAttr>
-      <EventAttr2>0</EventAttr2>
-      <DeviceType>18</DeviceType>
-    </VehicleStatus>
-    <VehicleStatus>
-      <VehicleID>46424</VehicleID>
-      <TrackID>0</TrackID>
-      <VehicleName>AE113 - Jan Agbigay</VehicleName>
-      <TrackDate>2020-01-30T15:30:13</TrackDate>
-      <Address>Waialae Ave</Address>
-      <City>Honolulu</City>
-      <State>HI</State>
-      <Dir>322</Dir>
-      <Speed>0</Speed>
-      <Lat>21.2888012</Lat>
-      <Lon>-157.812927</Lon>
-      <TempValue>-2147483648</TempValue>
-      <Duration>0</Duration>
-      <Sensor>0</Sensor>
-      <Color>#008000</Color>
-      <Alert />
-      <Odometer>0</Odometer>
-      <Status>Moving</Status>
-      <StatusUser>Moving</StatusUser>
-      <Online>true</Online>
-      <Gps>true</Gps>
-      <TriggerEvent>9</TriggerEvent>
-      <Mask>658717</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>

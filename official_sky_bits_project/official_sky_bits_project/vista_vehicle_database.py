@@ -5,6 +5,7 @@ import csv
 import datetime
 from ftplib import FTP, FTP_TLS
 import os
+import sky_bits_api_parse
 
 
 def all_vista_equipment():
@@ -27,20 +28,12 @@ def import_to_ftp(file_name):
     with FTP_TLS("ftp.cloud.viewpoint.com") as ftps:
         ftps.login("945", "QnHS6468")
         ftps.prot_p()
-        ftps.cwd("\imports\EM\SkyBitzMtr")
-        local_path = r"C:\Users\jjacinto\source\repos\official_sky_bits_project\official_sky_bits_project"
+        ftps.cwd(r"\imports\EM\SkyBitzMtr")
+        local_path = r"C:\Users\jjacinto\OneDrive - HSI\Documents\GitHub\Skybitz_Vista"
         local_file = os.path.join(local_path, file_name)
         with open(local_file, "rb") as csv_file:
-            res = ftps.storlines("Stor " + file_name, csv_file)
+            ftps.storlines("Stor " + file_name, csv_file)
         ftps.dir()
 
 
-#with FTP_TLS("ftp.cloud.viewpoint.com") as ftps:
-    #ftps.login("945", "QnHS6468")
-    #ftps.prot_p()
-    #dirname = os.path.dirname(__file__)
-    #filename = r"C:\Users\jjacinto\source\repos\official_sky_bits_project\official_sky_bits_project\skybitz_2020101.csv"
-    #ftps.cwd("\imports\EM\SkyBitzMtr")
-    #with open(filename, "rb") as csv_file:
-        #res = ftps.storlines("Stor " + "skybitz_2020101.csv", csv_file)
-    #ftps.dir()
+

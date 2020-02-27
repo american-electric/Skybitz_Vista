@@ -4,21 +4,21 @@
   <ResultMessage>success</ResultMessage>
   <ResultData xsi:type="ArrayOfVehicleStatus">
     <VehicleStatus>
-      <VehicleID>46541</VehicleID>
+      <VehicleID>46426</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE136 - Lance Uchima</VehicleName>
-      <TrackDate>2020-02-24T07:47:56</TrackDate>
-      <Address>549 Kaumakani St</Address>
+      <VehicleName>GPS002 - Edward Smythe</VehicleName>
+      <TrackDate>2020-02-25T22:27:38</TrackDate>
+      <Address>2378 Pahounui Dr</Address>
       <City>Honolulu</City>
       <State>HI</State>
-      <Dir>116</Dir>
+      <Dir>324</Dir>
       <Speed>0</Speed>
-      <Lat>21.2816277</Lat>
-      <Lon>-157.6987</Lon>
+      <Lat>21.3249817</Lat>
+      <Lon>-157.8923</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
-      <Color>#CC99FF</Color>
+      <Color>#FF6600</Color>
       <Alert />
       <Odometer>0</Odometer>
       <Status>Stopped</Status>
@@ -32,29 +32,29 @@
       <DeviceType>18</DeviceType>
     </VehicleStatus>
     <VehicleStatus>
-      <VehicleID>49290</VehicleID>
+      <VehicleID>46470</VehicleID>
       <TrackID>0</TrackID>
-      <VehicleName>AE137 - Oak Grant</VehicleName>
-      <TrackDate>2020-02-24T08:21:10</TrackDate>
-      <Address>200 Ward Ave</Address>
+      <VehicleName>GPS001 - Shawn Ortiz</VehicleName>
+      <TrackDate>2020-02-26T12:12:28</TrackDate>
+      <Address>355 Rodgers Blvd</Address>
       <City>Honolulu</City>
       <State>HI</State>
-      <Dir>52</Dir>
+      <Dir>44</Dir>
       <Speed>0</Speed>
-      <Lat>21.295496</Lat>
-      <Lon>-157.857346</Lon>
+      <Lat>21.33373</Lat>
+      <Lon>-157.922455</Lon>
       <TempValue>-2147483648</TempValue>
       <Duration>61</Duration>
       <Sensor>0</Sensor>
-      <Color>#CC99FF</Color>
+      <Color>#FF6600</Color>
       <Alert />
       <Odometer>0</Odometer>
       <Status>Stopped</Status>
       <StatusUser>Stopped</StatusUser>
       <Online>true</Online>
-      <Gps>true</Gps>
+      <Gps>false</Gps>
       <TriggerEvent>10</TriggerEvent>
-      <Mask>658716</Mask>
+      <Mask>657692</Mask>
       <EventAttr>0</EventAttr>
       <EventAttr2>0</EventAttr2>
       <DeviceType>18</DeviceType>
